@@ -1,0 +1,50 @@
+
+            Ingreso de distintos tipos de variables- TP N1
+
+Enteros:
+ Ingrese 2 numeros enteros
+ Numero 1: 1
+ Numero 2: 2
+
+Resultados:
+- Suma: 3
+- Resta: -1
+- Division: 0
+- Potencia (numero 1 elevado al numero 2): 1
+----------------------
+
+Cadenas de caracteres:
+ Ingrese dos cadenas no superior a los 10 caracteres:
+
+- Cadena 1: Estudiar
+- Cadena 2: tp
+- Que letra desea buscar en la cadena1? r
+
+Se encontro la letra
+ La cadena 2 es mas grande que la primera
+----------------------
+
+Booleanos
+ Responda la siguiente pregunta:
+- Voy a aprobar este TP? 1. Si 2.No
+ 2
+Respuesta equivocada.
+
+ Responda la siguiente pregunta:
+- Voy a aprobar este TP? 1. Si 2.No
+ 1
+Respuesta correcta.
+
+
+------------------
+ Double
+Ingrese 2 numero reales
+- Primer numero real: 5.5
+
+- Segundo real: 2
+
+Suma --> 7.5
+Resta --> 3.5
+Multiplicacion --> 11
+Division --> 2.75
+Fin programa.
