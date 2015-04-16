@@ -1,3 +1,9 @@
+/*
+Descrpcion: Programa que maneja datos de tipo entero, string y booleano
+Sebastian Matias Chambi
+06/04/2015
+*/
+
 #include <iostream>
 #include <conio.h>
 #include<math.h>
